@@ -1,0 +1,9 @@
+[package]
+name = "rslox"
+version = "0.0.0"
+edition = "2024"
+description = "An implementation of Bob Nystrom's Lox programming language in Rust."
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
